@@ -1,4 +1,4 @@
-# 33D Portfolio
+# 3D Portfolio
 
 A premium, interactive portfolio website built with Next.js 16, featuring 3D visuals, fluid animations, and AI/engineering-focused branding.
 
